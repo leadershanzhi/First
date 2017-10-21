@@ -3,8 +3,11 @@ I am endForFun!!
 Are you OK
 <<<<<<< HEAD
 I am SecondFun
+<<<<<<< HEAD
 =======
 I am ThridFun
 HHH
 >>>>>>> ThirdFun
+=======
 I am new ONe
+>>>>>>> 90c30db86f3c630e00cc5185fc1ebc11fcb0a4f5
